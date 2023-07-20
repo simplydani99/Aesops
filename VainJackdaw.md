@@ -1,6 +1,6 @@
 
 
-# The Vain Jack Daw & His Burrowed Feathers
+# The Vain Jack Daw & His Borrowed Feathers
 
 ![vain-jackdaw](images/vain-jackdaw.png)
 
